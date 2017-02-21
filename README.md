@@ -65,7 +65,7 @@ yarn add font-awesome-openui5
 
 You can auto-load (synchronously) all icons (from [default icons source](https://github.com/gluons/Font-Awesome-Icon-Chars)) with aliases by 2 ways.
 
-1. Declare the `FAUI` option before `<script>` tag.
+1. Declare the `FAUI5` option before `<script>` tag.
 
 	```html
 	<!DOCTYPE html>
