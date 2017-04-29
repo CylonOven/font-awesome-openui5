@@ -16,7 +16,7 @@ Uses default icons source from [Font-Awesome-Icon-Chars](https://github.com/gluo
 Via [Bower](https://bower.io/):
 
 ```
-bower install font-awesome-openui5
+bower install font-awesome-openui5#~2.0.0
 ```
 
 Via [NPM](https://www.npmjs.com/):
@@ -24,13 +24,13 @@ Via [NPM](https://www.npmjs.com/):
 [![NPM](https://nodei.co/npm/font-awesome-openui5.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/font-awesome-openui5)
 
 ```
-npm install font-awesome-openui5
+npm install font-awesome-openui5@past-two
 ```
 
 Or [Yarn](https://yarnpkg.com/):
 
 ```
-yarn add font-awesome-openui5
+yarn add font-awesome-openui5@past-two
 ```
 
 ## Usage
