@@ -8,12 +8,18 @@
 Provides [Font Awesome](http://fontawesome.io/) icons for using in [OpenUI5](http://openui5.org/).
 
 ## Installation
-Via [Bower](http://bower.io/).
+
+Via [Bower](http://bower.io/):
+
 ```
-bower install font-awesome-openui5
+bower install font-awesome-openui5#^1.2.2
 ```
 
-Or download from **[Latest Release](https://github.com/gluons/font-awesome-openui5/releases/latest)**.
+Via [NPM](https://www.npmjs.com/):
+
+```
+npm install font-awesome-openui5@legacy
+```
 
 ## Usage
 ### Core
